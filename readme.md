@@ -9,6 +9,10 @@
 ## About The Project
 Developed a 2D motion capture and animation system that translates real-world movements from a physical puppet into digital character animations. Utilized computer vision techniques to track motion markers, extract movement data, and process it for application to 2D assets. Designed a mapping system to apply captured motion to a rigged character, enabling realistic articulation of sprite-based animations.
 
+<a href="https://www.youtube.com/watch?v=rH8lUGSvOLk">
+  <p>Click here to see example export</p>
+</a>
+
 ### Built With
 
 <a href="">
