@@ -1,8 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://shorturl.at/kwkso">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rH8lUGSvOLk?si=QDMThx3XafI-8_3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </a>
+  [![Watch the video](https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg)](https://www.youtube.com/watch?v=rH8lUGSvOLk)
   <h3 align="center">2D Motion Capture for Digital Animation</h3>
 </div>
 
