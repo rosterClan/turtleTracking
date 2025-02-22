@@ -1,6 +1,8 @@
 <br />
 <div align="center">
-  [![Watch the video](https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg)](https://www.youtube.com/watch?v=rH8lUGSvOLk)
+  <a href="https://www.youtube.com/watch?v=rH8lUGSvOLk">
+    <img src="https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg" alt="Logo" width="80" height="80">
+  </a>
   <h3 align="center">2D Motion Capture for Digital Animation</h3>
 </div>
 
