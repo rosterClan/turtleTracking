@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://www.youtube.com/watch?v=rH8lUGSvOLk">
-    <img src="https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg" alt="Logo" width="80" height="80">
+    <img src="https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg" alt="Logo">
   </a>
   <h3 align="center">2D Motion Capture for Digital Animation</h3>
 </div>
