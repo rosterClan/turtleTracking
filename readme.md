@@ -4,6 +4,9 @@
     <img src="https://img.youtube.com/vi/rH8lUGSvOLk/0.jpg" alt="Logo">
   </a>
   <h3 align="center">2D Motion Capture for Digital Animation</h3>
+  <a align="center" href="https://www.youtube.com/watch?v=rH8lUGSvOLk">
+    <p>DEMONSTRATION VIDEO</p>
+  </a>
 </div>
 
 ## About The Project
@@ -19,13 +22,16 @@ This is an example of how you may give instructions on setting up this project l
 
 ### Prerequisites
 This project was created using Python 3.10.11. I can't guarantee that this project will run on other versions.
-<br />
-1: Clone the repo
-<br />
-2: Install required librarys
-  ```sh
-  dotnet restore
-  ```
+
+1. Clone the repo
+2. Install the Python package requirements
+```sh
+pip install -r /path/to/requirements.txt
+```
+3. Run scene.py
+```sh
+python3 scene.py
+```
 
 ## Contact
 William Walker - william.sinclair.walker@gmail.com
