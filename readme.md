@@ -19,7 +19,9 @@ This is an example of how you may give instructions on setting up this project l
 
 ### Prerequisites
 This project was created using Python 3.10.11. I can't guarantee that this project will run on other versions.
+<br />
 1: Clone the repo
+<br />
 2: Install required librarys
   ```sh
   dotnet restore
